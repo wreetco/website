@@ -73,3 +73,11 @@ body::-webkit-scrollbar-thumb {
 #quality-card {
 	background-image: url('../images/quality.jpg');
 }
+
+#exp-card {
+	background-image: url('../images/experience.jpg');
+}
+
+#value-card {
+	background-image: url('../images/value.jpg');
+}
